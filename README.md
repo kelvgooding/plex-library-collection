@@ -35,25 +35,9 @@ The auth.py file will be left blank by default. Therefore, this information must
 **User Credentials**
 
 ```
-user_auth = {
-    "username": "",
-    "password": ""
-}
-```
-
-**Dir Path**
-
-```
-dir_path = {
-    "path": ""
-}
-```
-
-**Base URL**
-
-```
-base_url = {
-    "url": ""
+api_auth = {  
+    "token": "",
+    "server": "",
 }
 ```
 
