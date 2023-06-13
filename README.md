@@ -43,13 +43,14 @@ api_auth = {
 
 ## Stakeholders
 
-- **PM**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
-- **Design**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
-- **Dev**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
-- **QA**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
-- **Support**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
+- **PM**: Kelvin Gooding | kelvin.gooding@livelifeautomate.co.uk
+- **Design**: Kelvin Gooding | kelvin.gooding@livelifeautomate.co.uk
+- **Dev**: Kelvin Gooding | kelvin.gooding@livelifeautomate.co.uk
+- **QA**: Kelvin Gooding | kelvin.gooding@livelifeautomate.co.uk
+- **Support**: Kelvin Gooding | kelvin.gooding@livelifeautomate.co.uk
 
 ## Contribution
 
-- **Issue Tracker**: https://github.com/kelvgooding/plex-api/issues
-- **Contact**: Kelvin Gooding | [kelvin.gooding@livelifeautomate.co.uk](kelvin.gooding@livelifeautomate.co.uk)
+- **Issue Tracker**: https://github.com/kelvgooding/sysops/issues
+- **Asana Tracker**: https://app.asana.com/0/1204767155489834/list
+- **Contact**: kelvin.gooding@livelifeautomate.co.uk
