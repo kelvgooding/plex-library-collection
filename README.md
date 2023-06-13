@@ -24,6 +24,9 @@ This will show all media content for: Films, Anime, TV Series and Docuseries.
 
 > **Dependencies**
 
+A Plex Account is required.
+A Plex X-Token is required - https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+
 **auth.py**
 
 This application requires user credentials. This file is representative of any personal details which you would like to keep private.
