@@ -1,8 +1,8 @@
 """
-Author: Kelvin Gooding
+Author: Kelv Gooding
 Created: 2022-06-23
-Updated: 2023-06-12
-Version: 1.1
+Updated: 2025-01-02
+Version: 1.2
 """
 
 # Modules
@@ -12,8 +12,8 @@ from plexapi.server import PlexServer
 
 # Variables
 
-token = auth.api_auth['token']
-server = auth.api_auth['server']
+token = auth.api_auth['plex_x_token']
+server = auth.api_auth['plex_server']
 plex = PlexServer(server, token)
 
 # Script
