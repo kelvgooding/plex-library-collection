@@ -1,8 +1,8 @@
 """
 Author: Kelv Gooding
 Created: 2022-06-23
-Updated: 2025-01-02
-Version: 1.2
+Updated: 2025-07-13
+Version: 1.3
 """
 
 # Modules
@@ -24,9 +24,11 @@ def plex_media_list(media_type):
     for item in plex.library.section(f'{media_type}').search():
         print(item.title)
 
+# Names must made libraries created in Plex Media Server UI
+
 plex_media_list('Animation')
+plex_media_list('Animation Films')
 plex_media_list('Anime Films')
 plex_media_list('Anime')
-plex_media_list('Docuseries')
 plex_media_list('Films')
-plex_media_list('TV')
+plex_media_list('TV Shows')
